@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: 650d6a7db387cdb4492f73b756db7ad4
+timeCreated: 1483943528
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TutorialImages01_0
+    21300002: TutorialImages01_1
+    21300004: TutorialImages01_2
+    21300006: TutorialImages01_3
+    21300008: TutorialImages01_4
+    21300010: TutorialImages01_5
+    21300012: TutorialImages01_6
+    21300014: TutorialImages01_7
+    21300016: TutorialImages01_8
+    21300018: TutorialImages01_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TutorialImages01_0
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1482
+        width: 241
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TutorialImages01_1
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 992
+        width: 726
+        height: 669
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TutorialImages01_2
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1195
+        width: 211
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TutorialImages01_3
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 933
+        width: 264
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TutorialImages01_4
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 62
+        width: 216
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TutorialImages01_5
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 63
+        width: 291
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TutorialImages01_6
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 66
+        width: 216
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TutorialImages01_7
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 67
+        width: 291
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TutorialImages01_8
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 56
+        width: 216
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TutorialImages01_9
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 57
+        width: 291
+        height: 539
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
